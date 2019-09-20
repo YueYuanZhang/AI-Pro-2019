@@ -1,6 +1,8 @@
 # AI-Pro-2019
 一、大会网址：https://aiprocon.csdn.net/?utm_source=wbpt
+
 二、ppt下载地址：https://t.csdnimg.cn/C0SI
+
 三、深度学习培训视频观看
 流程：
 1、点击链接：https://edu.csdn.net/course/detail/26062
